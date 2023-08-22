@@ -1,0 +1,16 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.info {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.buttonClass {
+    display: flex;
+
+}
